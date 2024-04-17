@@ -38,6 +38,7 @@ Personally, I am just a Bachelors of computer application graduate, I have a ver
 
 ## Getting Started
 
+Download the Zip from releases section. Extract the contents of the zip file.
 There are 2 folders one is the transmitter and one is the reciever. 
 On Transmitter side:
 - Place the transmitter python script folder on the server or computer which is the source of the video.
