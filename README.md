@@ -1,7 +1,5 @@
 # Dos Serial Video
 
-[Project description goes here]
-
 ## Table of Contents
 
 - [About](#about)
@@ -22,29 +20,29 @@ P.S.
 Personally, I am just a Bachelors of computer application graduate, I have a very little knowledge about dos programming, python and open cv. But I have a obsession for retrofuturism which sparked from movies (like blade runner) and that creativity lead to this basic app. If I had more knowledge I would make a 256 color floyd steinberg dithered video app, but I dont know much about open cv 😞.
 
 ## Features
-- Reciever Compiled using borland turbo c
-- 320x200 monochrome video (black and white only, no greyscale)
-- Around 0.5 fps at 115200 baud
+- Reciever Compiled using borland turbo c.
+- 320x200 monochrome video (black and white only, no greyscale).
+- Around 0.5 fps at 115200 baud.
 - Port and baud on transmitter can be changed.
-- Port can be changed in reciever with the fixed baud rate of 115200
+- Port can be changed in reciever with the fixed baud rate of 115200.
 
 ## Tested On
 
-- Transmitter tested on Windows 11 22H2 with python 3.11.9
-- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later)
+- Transmitter tested on Windows 11 22H2 with python 3.11.9.
+- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later).
 - Communication established using com0com virtual serial port.
 
 ## Getting Started
 
 There are 2 folders one is the transmitter and one is the reciever. 
-On Transmitter side
+On Transmitter side:
 - Place the transmitter python script folder on the server or computer which is the source of the video.
 - Launch obs studio, select your video source on scene and start the virtual camera (I have set the camera option to scene).
 - Go to the transmitter folder and execute the transmitter with the command: python transmitter.py
 
 connect the serial port cable between both computers (you can use virtual serial or real serial port).
 
-On reciever side
+On reciever side:
 - Place the reciever code on the Dos machine, you can do this by copying it into a floppy disk (although floppy is rarely used today) or in an sd card and use a sd card floppy emulator on the dos machine. Or if you are on dos box, mount the reciever folder.
 - Go to the reciver folder and run the command: reciever.exe
 - If somehow the exe is not working, you can recompile the cpp file (located in the same folder) using turbo c compiler and then execute the exe with the same command.
