@@ -33,7 +33,7 @@ Personally, I am just a Bachelors of computer application graduate, I have a ver
 ## Tested On
 
 - Transmitter tested on Windows 11 22H2 with python 3.11.9.
-- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later). Cpu speed is set to 
+- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later). Cpu speed is set to 5495 cycles (386 DX at 25 MHz)
 - Communication established using com0com virtual serial port.
 
 ## Getting Started
