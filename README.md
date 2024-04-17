@@ -1,5 +1,7 @@
 # Dos Serial Video
 
+A monochrome 320x200 video stream communication over serial port between a server and a Dos PC.
+
 ## Table of Contents
 
 - [About](#about)
