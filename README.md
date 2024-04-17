@@ -21,6 +21,8 @@ How it works, the obs studio captures some source and sends it through obs virtu
 P.S. 
 Personally, I am just a Bachelors of computer application graduate, I have a very little knowledge about dos programming, python and open cv. But I have a obsession for retrofuturism which sparked from movies (like blade runner) and that creativity lead to this basic app. If I had more knowledge I would make a 256 color floyd steinberg dithered video app, but I dont know much about open cv 😞.
 
+![Preview Image]("preview image.png")
+
 ## Features
 - Reciever Compiled using borland turbo c.
 - 320x200 monochrome video (black and white only, no greyscale).
