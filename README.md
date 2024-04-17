@@ -31,7 +31,7 @@ Personally, I am just a Bachelors of computer application graduate, I have a ver
 ## Tested On
 
 - Transmitter tested on Windows 11 22H2 with python 3.11.9.
-- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later).
+- Reciever Tested on Dos ver 7.1 in DOSBox-X version 2023.05.01 (Will test on real machine later). Cpu speed is set to 
 - Communication established using com0com virtual serial port.
 
 ## Getting Started
@@ -48,6 +48,10 @@ On reciever side:
 - Place the reciever code on the Dos machine, you can do this by copying it into a floppy disk (although floppy is rarely used today) or in an sd card and use a sd card floppy emulator on the dos machine. Or if you are on dos box, mount the reciever folder.
 - Go to the reciver folder and run the command: reciever.exe
 - If somehow the exe is not working, you can recompile the cpp file (located in the same folder) using turbo c compiler and then execute the exe with the same command.
+
+## Note
+- If using Dos-Box set cpu speed to ~4595 cycles (386 DX 25 Mhz) otherwise the output will not be good as the cpu lower than that will not cope up with this high baud rate
+- By looking at the first point, it means that the minimum cpu requirement for the real machine is intel 386 DX or equivalent.
 
 ## Usage
 
