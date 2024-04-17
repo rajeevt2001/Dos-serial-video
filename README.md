@@ -1,7 +1,8 @@
 # Dos Serial Video
 
 A monochrome 320x200 video stream communication over serial port between a server and a Dos PC.
-Download it form Releases page.
+
+Download it from [Releases](https://github.com/rajeevt2001/Dos-serial-video/releases) page.
 
 ## Table of Contents
 
