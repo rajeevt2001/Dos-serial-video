@@ -22,7 +22,8 @@ How it works, the OBS Studio captures a source and sends it through OBS Virtual 
 P.S. 
 Personally, I am just a Bachelor's of Computer Application graduate, I have very little knowledge about DOS programming, Python, and OpenCV. But I have an obsession for retrofuturism, which sparked from movies (like Blade Runner) and that creativity led to this basic app. If I had more knowledge, I would make a 256 color floyd steinberg dithered video app, but I don't know much about OpenCV 😞.
 
-![Preview Image](https://github.com/rajeevt2001/Dos-serial-video/blob/main/preview%20image.png)
+
+![Preview Image](https://github.com/rajeevt2001/Dos-serial-video/blob/main/v2-screenshot.png)
 
 ## Features
 - Receiver compiled using Borland Turbo C.
