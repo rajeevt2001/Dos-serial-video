@@ -2,17 +2,6 @@
 
 A monochrome 320x200 video stream communication over a serial port between a server and a DOS PC.
 
-Download it from [Releases](https://github.com/rajeevt2001/Dos-serial-video/releases) page.
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tested-On](#Tested-On)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## About
 
 This software was created out of pure curiosity, and it is made just for fun. Made with the help of ChatGPT 3.5 and Gemini for Version 2, this simple software plays a low-performance 320x200 monochrome video stream from a DOS machine over the serial port. I created it to improve the usability of DOS PCs, embrace retro-futuristic ideas, and satisfy my curiosity about live video streaming over serial communication. The transmitter of the stream can be used on any platform that has a serial port and is compatible with Python 3.14 or above, OBS Studio (any version that has OBS virtual camera), and OpenCV 4.9.0.
