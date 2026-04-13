@@ -16,7 +16,7 @@ Personally, I am just a Bachelor's of Computer Application graduate, I have very
 
 ## Features
 - Receiver compiled using Borland Turbo C.
-- 320x200 monochrome video (black and white only, no greyscale).
+- 320x200 monochrome video (black and white and 4 shades of grey options).
 - Greater than or equal to 0.5 fps at 115200 baud.
 - The port on the transmitter can be changed.
 - The port can be changed in the receiver with the fixed baud rate of 115200.
